@@ -1,7 +1,3 @@
-# SE Lab Internal II — Quick Command Guide
-
-Commands below are for Windows PowerShell unless noted. Replace example names/paths with the ones in the exam question. This is a quick reference for the practice we completed; if the question specifies different tools, ports, repo, or image, follow the question.
-
 ## 1. Jenkins: Maven Freestyle build, Poll SCM, artifact archive
 
 ### Freestyle job setup
