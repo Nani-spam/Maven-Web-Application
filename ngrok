@@ -1,0 +1,5 @@
+ngrok version
+winget install ngrok -s msstore
+
+ngrok config add-authtoken 3MOqRmpYSELtiFlsogXvpbzDqqi_7eR2H7itL24yo7SHAWDmj
+ngrok http 8081
